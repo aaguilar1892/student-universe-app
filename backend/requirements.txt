@@ -4,3 +4,4 @@ motor
 passlib
 python-jose
 python-dotenv
+uvicorn
